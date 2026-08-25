@@ -1,7 +1,8 @@
-Introduction to T-SQL Capstone Project 
-Learning Outcomes 
-By completing this capstone project, you will demonstrate your ability to: 
-    • Create and modify database tables using DDL statements.  
+<h1>Introduction to T-SQL Capstone Project</h1> 
+<h4>Learning Outcomes </h4> 
+<p>By completing this capstone project, you will demonstrate your ability to:</p> 
+    <ul>
+    <li>• Create and modify database tables using DDL statements.</li>  
     • Insert, update and delete records using DML statements.  
     • Retrieve data using the SELECT statement.  
     • Apply column aliases, concatenation and COALESCE().  
@@ -16,3 +17,4 @@ By completing this capstone project, you will demonstrate your ability to:
     • Use IF...ELSE logic.  
     • Implement transactions.  
     • Handle errors using TRY...CATCH.
+    </ul>
