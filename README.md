@@ -1,5 +1,5 @@
 <h1>Introduction to T-SQL Capstone Project</h1> 
-<h2>Learning Outcomes </h2> 
+<h3>Learning Outcomes </h3> 
 <h4>By completing this capstone project, you will demonstrate your ability to:</h4> 
     <ul>
     <li>Create and modify database tables using DDL statements. </li>  
